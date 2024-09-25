@@ -15,10 +15,10 @@ Arxiv, 2024
 ## Key Insight :raised_hands:
 - Alignment between frame-level text and motion enables the explainability of the motion generation!
 - Separate diffusion process for aligned motion and text enbales multi-directional inference!
-- Our model allows **multiple novel applications**:
-  - hierarchical control, allowing users to specify motion at different levels of detail
-  - obtaining motion text descriptions for existing MoCap data or youtube videos
-  - allowing for editability, generating motion from text and editing the motion via text edits
+- Our model allows **Multiple Novel Applications**:
+  - **Hierarchical Control**: Allowing users to specify motion at different levels of detail
+  - **Motion Text Generation**: Obtaining motion text descriptions for existing MoCap data or youtube videos
+  - **Motion Editing**: Allowing for editability, generating motion from text and editing the motion via text edits
 
 ![](https://github.com/Coral79/Unimotion/blob/main/assets/unimotion_overview.png)
 
