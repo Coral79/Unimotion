@@ -4,8 +4,11 @@ Pytorch implementation of Unimotion: Unifying 3D Human Motion Synthesis and Unde
 <img src='https://github.com/Coral79/CDDB/blob/main/assets/teaser.png' width=1200> 
 
 **Unimotion: Unifying 3D Human Motion Synthesis and Understanding** <br>
-Chuqiao Li, Julian Chibane, Yannan He, Naama Pearl, Andreas Geiger, Gerard Pons-Moll <br>
+[Chuqiao Li](https://virtualhumans.mpi-inf.mpg.de/people/Li.html), [Julian Chibane](https://virtualhumans.mpi-inf.mpg.de/people/Chibane.html), [Yannan He](https://virtualhumans.mpi-inf.mpg.de/people/He.html), [Naama Pearl](https://naamapearl.github.io/), [Andreas Geiger](https://www.cvlibs.net/), [Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html) <br>
 [[Project Page]](https://coral79.github.io/uni-motion/) [[Paper]](http://arxiv.org/abs/2409.15904)
+
+Arxiv, 2024
+
 
 ## Citation
 
