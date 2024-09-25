@@ -12,7 +12,7 @@ Arxiv, 2024
 - [2024/06/14] Unimotion paper is available on [ArXiv](http://arxiv.org/abs/2409.15904).
 - [2024/06/14] Code and pre-trained weights will be released soon.
 
-## Key Insight :raised_hands:
+## Key Insight
 - Alignment between frame-level text and motion enables the explainability of the motion generation!
 - Separate diffusion process for aligned motion and text enbales multi-directional inference!
 - Our model allows **Multiple Novel Applications**:
