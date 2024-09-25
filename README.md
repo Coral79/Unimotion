@@ -13,8 +13,8 @@ Arxiv, 2024
 - [2024/06/14] Code and pre-trained weights will be released soon.
 
 ## Key Insight
-- Alignment between frame-level text and motion enables the explainability of the motion generation!
-- Separate diffusion process for aligned motion and text enbales multi-directional inference!
+- Alignment between frame-level text and motion enables the **temproal semantic awareness** of the motion generation!
+- Separate diffusion process for aligned motion and text enbales **multi-directional inference**!
 - Our model allows **Multiple Novel Applications**:
   - **Hierarchical Control**: Allowing users to specify motion at different levels of detail
   - **Motion Text Generation**: Obtaining motion text descriptions for existing MoCap data or youtube videos
