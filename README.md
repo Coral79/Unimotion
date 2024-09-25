@@ -1,5 +1,4 @@
 # Unimotion: Unifying 3D Human Motion Synthesis and Understanding
-Pytorch implementation of Unimotion: Unifying 3D Human Motion Synthesis and Understanding.
 
 <img src='https://github.com/Coral79/Unimotion/blob/main/assets/teaser.png' width=1200> 
 
