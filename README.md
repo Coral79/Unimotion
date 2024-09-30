@@ -29,7 +29,7 @@ When using the code/figures/data/etc., please cite our work
 @article{li2024unimotion,
   author    = {Li, Chuqiao and Chibane, Julian and He, Yannan and Pearl, Naama and Geiger, Andreas and Pons-Moll, Gerard},
   title     = {Unimotion: Unifying 3D Human Motion Synthesis and Understanding},
-  journal   = {Arxiv},
+  journal   = {arXiv preprint arXiv:2409.15904},
   year      = {2024},
 }
 ```
