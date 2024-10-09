@@ -9,16 +9,16 @@
 Arxiv, 2024
 
 ## News :triangular_flag_on_post:
-- [2024/06/14] Unimotion paper is available on [ArXiv](http://arxiv.org/abs/2409.15904).
-- [2024/06/14] Code and pre-trained weights will be released soon.
+- [2024/09/30] Unimotion paper is available on [ArXiv](http://arxiv.org/abs/2409.15904).
+- [2024/09/30] Code and pre-trained weights will be released soon.
 
 ## Key Insight
 - Alignment between frame-level text and motion enables the **temproal semantic awareness** of the motion generation!
-- Separate diffusion process for aligned motion and text enbales **multi-directional inference**!
+- Separate diffusion process for aligned motion and text enables **multi-directional inference**!
 - Our model allows **Multiple Novel Applications**:
   - **Hierarchical Control**: Allowing users to specify motion at different levels of detail
-  - **Motion Text Generation**: Obtaining motion text descriptions for existing MoCap data or youtube videos
-  - **Motion Editing**: Allowing for editability, generating motion from text and editing the motion via text edits
+  - **Motion Text Generation**: Obtaining motion text descriptions for existing MoCap data or YouTube videos
+  - **Motion Editing**: Allowing for editability, generating motion from text, and editing the motion via text edits
 
 ![](https://github.com/Coral79/Unimotion/blob/main/assets/unimotion_overview.png)
 
