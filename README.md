@@ -10,7 +10,7 @@
 
 ## News :triangular_flag_on_post:
 - [2024/09/30] Unimotion paper is available on [ArXiv](http://arxiv.org/abs/2409.15904).
-- [2025/28/30] Code and pre-trained released.
+- [2025/13/04] Code and pre-trained released.
 
 ## Key Insight
 - Alignment between frame-level text and motion enables the **temproal semantic awareness** of the motion generation!
